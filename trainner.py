@@ -46,8 +46,10 @@ class Trainner:
                 self.pokemon_atual = i
                 break
             
+class Trainner_enemy:
+    pass
 
-
+'''
 pokemon1 = Charmander('Todynho', 5)
 pokemon2 = Bulbassauro('Verde', 6)
 
@@ -59,3 +61,4 @@ lucas = Trainner('Lucas', 10 ,[pokemon1,pokemon2])
 lucas.mostrar_atack()
 
 lucas.usar_pocao()
+'''
